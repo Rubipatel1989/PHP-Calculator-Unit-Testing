@@ -1,1 +1,1 @@
-{"version":1,"defects":{"CalculatorTest::testAdd":4,"CalculatorTest::testDivide":3,"CalculatorTest::testSubtract":3},"times":{"CalculatorTest::testAdd":0.003,"CalculatorTest::testSubtract":0,"CalculatorTest::testMultiply":0,"CalculatorTest::testDivide":0}}
+{"version":1,"defects":[],"times":{"CalculatorTest::testAdd":0.227,"CalculatorTest::testSubtract":0,"CalculatorTest::testMultiply":0,"CalculatorTest::testDivide":0,"CalculatorUnitTest::testAdd":0.003,"CalculatorUnitTest::testSubtract":0,"CalculatorUnitTest::testMultiply":0,"CalculatorUnitTest::testDivide":0}}

@@ -1,5 +1,5 @@
 <?php
-class CalculatorTest extends \PHPUnit\Framework\TestCase{
+class CalculatorUnitTest extends \PHPUnit\Framework\TestCase{
     public function testAdd(){
         $calculator = new App\Calculator;
         $result = $calculator->add(20,5);
